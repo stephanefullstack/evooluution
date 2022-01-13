@@ -4971,3 +4971,10 @@ b, strong {
     max-height: 80vh;
   }
 }
+
+.btn-primary {
+    color: #fff;
+    background-color: #ef8354;
+    /*border: solid 1px #ef8354;*/
+    border-color: #ef8354;
+}
